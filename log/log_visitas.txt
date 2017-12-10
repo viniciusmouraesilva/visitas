@@ -1,0 +1,18 @@
+Não foi possível salvar uma VisitaNão foi possível salvar uma Visita.
+Não foi possível salvar uma Visita. {$resu}
+O que aconteceu foi: {$resu}
+O que aconteceu foi: 
+O que aconteceu foi: 
+O que aconteceu foi: 
+O que aconteceu foi: Salvou sem erros.
+O que aconteceu foi: Salvou sem erros.
+O que aconteceu foi: 
+O que aconteceu foi: 
+O que aconteceu foi: 
+O que aconteceu foi: 
+O que aconteceu foi: 
+O que aconteceu foi: 
+O que aconteceu foi: 
+O que aconteceu foi: Salvou sem erros.
+O que aconteceu foi: Salvou sem erros.
+O que aconteceu foi: Salvou sem erros.
