@@ -13,7 +13,7 @@ function contarVisita() {
 #conexao com o banco
 function conecta() {
 
-	define("DNS","mysql:dbname=contador;host=localhost;utf8mb4");
+	define("DNS","mysql:dbname=contador;host=localhost;charset=utf8mb4");
 	define("USUARIO","root");
 	define("SENHA","@Zuruca052");
 
